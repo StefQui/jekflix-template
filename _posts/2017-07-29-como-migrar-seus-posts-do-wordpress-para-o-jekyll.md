@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Faire un site
-date: {}
+date: 2017-07-29T13:24:49.000Z
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1501345962/wordpress-to-jekyll_mx4ddm.png
 description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
